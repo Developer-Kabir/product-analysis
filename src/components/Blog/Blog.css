@@ -1,0 +1,12 @@
+.QNA-heading{
+    background-color: aliceblue;
+    display: inline-block;
+    margin-top: 20px;
+    padding: 10px 30px;
+    border: 2px solid gainsboro;
+    border-radius: 10px;
+}
+
+.QNA{
+    margin: 20px 100px;
+}

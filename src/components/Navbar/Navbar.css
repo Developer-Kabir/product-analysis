@@ -1,0 +1,18 @@
+.Nav{
+   padding: 20px;
+   background-color: #d4e8fd;
+}
+
+#linkstyle{
+    margin-right: 20px;
+    text-decoration: none;
+    text-transform: uppercase;
+    font-size: 20px;
+    font-weight: 700;
+}
+
+.linkstyle:active{
+
+ border-bottom: 2px solid black;
+
+}
