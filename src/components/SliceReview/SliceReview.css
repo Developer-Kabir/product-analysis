@@ -1,0 +1,7 @@
+.sliced{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    margin: 0px 80px 30px 80px;
+
+    
+}

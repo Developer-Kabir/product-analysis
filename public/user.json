@@ -1,0 +1,44 @@
+[
+    {
+      "id": "624c46a141de20216196443d",
+      "picture": "https://images.pexels.com/photos/220453/pexels-photo-220453.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "rating": 5,
+      "name": "Miriam Stanley",
+      "review" : "They are very good and their service is also"
+    },
+    {
+      "id": "624c46a164f25cc14884e06d",
+      "picture": "https://images.pexels.com/photos/2659177/pexels-photo-2659177.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "rating": 5,
+      "name": "Ophelia Sears",
+      "review" : "I am, proud to be a customer of gelaxy"
+    },
+    {
+      "id": "624c46a1e2a84b591c34c8a8",
+      "picture": "https://images.pexels.com/photos/733872/pexels-photo-733872.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "rating": 4.8 ,
+      "name": "Maureen ",
+      "review" : "Thank you for you service "
+    },
+    {
+      "id": "624c46a1f777844157da8230",
+      "picture": "https://images.pexels.com/photos/3777952/pexels-photo-3777952.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "rating": 4.5,
+      "name": "Coffey",
+      "review" : "Outstanding service"
+    },
+    {
+      "id": "624c46a17ab08857be14f6fc",
+      "picture": "https://images.pexels.com/photos/3228890/pexels-photo-3228890.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "rating": 5,
+      "name": "Callie Frazier",
+      "review" : "Exelent service provider "
+    },
+    {
+      "id": "624c46a13a19e32845b469a6",
+      "picture": "https://images.pexels.com/photos/7397453/pexels-photo-7397453.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "rating": 4,
+      "name": "Chen Pace",
+      "review" : "They are best in the city"
+    }
+  ]

@@ -1,4 +1,5 @@
 import React from 'react';
+import SliceReview from '../SliceReview/SliceReview';
 import './Home.css'
 
 const Home = () => {
@@ -18,6 +19,7 @@ const Home = () => {
 
             <div>
                 <h2 className='review-heading'>Our Custome Review</h2>
+                <SliceReview></SliceReview>
             </div>
         </div>
     );
