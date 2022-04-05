@@ -1,6 +1,6 @@
 # Gelaxy Car Review
 
-This project is about car review site[Live Link](https://gelaxy-car-review.netlify.app//).
+This project is about car review site Click [Gelaxy Car Review](https://gelaxy-car-review.netlify.app//)to visit this site .
 
 ## About this Project
 

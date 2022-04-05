@@ -1,6 +1,12 @@
 .gelary {
-    margin: 20px 40px;
-    padding: 10px 0px;
+    margin: 20px;
+    padding: 10px 55px;
+    display: flex;
+    justify-content: space-around;
+  
+}
+.image {
+    width: 600px;
 }
 
 .review-heading{
