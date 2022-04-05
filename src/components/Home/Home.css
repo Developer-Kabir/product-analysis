@@ -1,0 +1,14 @@
+.gelary {
+    margin: 20px 40px;
+    padding: 10px 0px;
+}
+
+.review-heading{
+    background-color: aliceblue;
+    width: fit-content;
+    margin: 40px auto;
+    padding: 10px 30px;
+    border: 2px solid gainsboro;
+    border-radius: 10px;
+    text-align: center;
+}
